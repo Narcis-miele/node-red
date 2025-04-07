@@ -898,7 +898,7 @@
         "topic": "",
         "payload": "{\"deviceCount\":10}",
         "payloadType": "json",
-        "x": 410,
+        "x": 230,
         "y": 200,
         "wires": [
             [
@@ -1308,8 +1308,8 @@
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 80,
-        "y": 540,
+        "x": 180,
+        "y": 520,
         "wires": [
             []
         ]
@@ -4228,7 +4228,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1230,
+        "x": 1290,
         "y": 520,
         "wires": []
     },
